@@ -30,9 +30,9 @@ APIS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'decide',
-        'USER': 'decide',
-        'PASSWORD':'decide',
+        'NAME': 'decidedb2',
+        'USER': 'decideuser2',
+        'PASSWORD':'decidepass123',
         'HOST': 'localhost',
         'PORT': '5432',
     }
